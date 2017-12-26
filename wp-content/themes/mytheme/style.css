@@ -1516,7 +1516,7 @@ html {
 }
 
 body {
-	background: #f5f5f5;
+	background: #fff;
 	/* Fallback for when there is no custom background color defined. */
 }
 
@@ -1863,7 +1863,7 @@ body:not(.has-header-image):not(.has-header-video) .custom-header-media {
 --------------------------------------------------------------*/
 
 .site-content-contain {
-	background-color: #fff;
+	background-color: #ccc; /* lvup */
 	position: relative;
 }
 
