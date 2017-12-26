@@ -1,0 +1,948 @@
+# Translation of Themes - Hestia in Japanese
+# This file is distributed under the same license as the Themes - Hestia package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-13 07:58:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Hestia\n"
+
+#. #-#-#-#-#  hestia.pot (Hestia 1.1.39)  #-#-#-#-#
+#. Description of the plugin/theme
+#: inc/features/feature-about-page.php:27
+msgid "Hestia is a modern WordPress theme for professionals. It fits creative business, small businesses (restaurants, wedding planners, sport/medical shops), startups, corporate businesses, online agencies and firms, portfolios, ecommerce (WooCommerce), and freelancers. It has a multipurpose one-page design, widgetized footer, blog/news page and a clean look, is compatible with: Flat Parallax Slider, Photo Gallery, Travel Map and Elementor Page Builder . The theme is responsive, WPML, Retina ready, SEO friendly, and uses Material Kit for design."
+msgstr "Hestia はプロフェッショナルのための現代的な WordPress テーマです。クリエイティブ業界や中小規模の企業 (レストラン、ウェディングプランナー、スポーツ、薬局)、スタートアップカンパニー、法人企業、Web や映像の制作会社、ポートフォリオ、E コマース (WooCommerce)、フリーランスに適します。多目的のシングルページデザイン、ウィジェット化されたフッター、ブログ・ニュースページ、洗練された外観を備えており、様々なプラグインと互換性があります (Flat Parallax Slider、Photo Gallery、Travel Map、Elementor Page Builder)。レスポンシブ、WPML、Retina に対応し、SEO 最適化済みです。デザインには Material Kit を使用しています。"
+
+#: inc/features/feature-about-page.php:169
+msgid "Display a frontpage section wherever you like by adding its shortcode in page or post content."
+msgstr "お好みの場所に固定ページや投稿のショートコードを追加して、フロントページセクションを表示します。"
+
+#: inc/features/feature-about-page.php:168
+msgid "Shortcodes for each section"
+msgstr "各セクションのショートコード"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s件のコメント"
+
+#. translators: %s: post title
+#: comments.php:32
+msgctxt "comments title"
+msgid "One comment"
+msgstr "1件のコメント"
+
+#: inc/plugin-install/class-hestia-plugin-install-helper.php:116
+msgid "Activating "
+msgstr "有効化しています"
+
+#: inc/plugin-install/class-hestia-plugin-install-helper.php:60
+msgid "Install and activate"
+msgstr "インストールと有効化"
+
+#: inc/features/feature-contact-section.php:301
+msgid "In order to add a contact form to this section, you need to install the Pirate Forms plugin."
+msgstr "このセクションへお問い合わせフォームを追加するには、Pirate Forms プラグインをインストールしてください。"
+
+#: inc/features/feature-big-title-section.php:123
+msgid "Change this subtitle in the customizer."
+msgstr "カスタマイザーでサブタイトルを変更"
+
+#: inc/sections/hestia-big-title-section.php:24
+#: inc/sections/hestia-big-title-section.php:26
+msgid "Customizer"
+msgstr "カスタマイザー"
+
+#: inc/features/feature-big-title-section.php:122
+#: inc/features/feature-big-title-section.php:124
+#: inc/sections/hestia-big-title-section.php:27
+msgid "Change in the Customizer"
+msgstr "カスタマイザーで変更"
+
+#: inc/features/feature-about-page.php:163
+#: inc/features/feature-theme-info-section.php:61
+msgid "The ability to reorganize your Frontpage Sections more easily and quickly."
+msgstr "素早く簡単にフロントページセクションを並べ替えできます。"
+
+#: inc/features/feature-about-page.php:120
+#: inc/features/feature-about-page.php:122
+msgid "Go to the Customizer"
+msgstr "カスタマイザーへ移動"
+
+#: inc/customizer.php:121
+msgid "Drag and drop panels to change the order of sections."
+msgstr "パネルをドラッグ & ドロップして、セクションの並び順を変更します。"
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:120
+msgid "The ability to reorganize your Frontpage sections more easily and quickly."
+msgstr "素早く簡単にフロントページセクションを並べ替え可能"
+
+#: inc/customizer-theme-info/class-hestia-control-upsell-theme-info.php:68
+msgid "PRO"
+msgstr "PRO"
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Full Width"
+msgstr "ページビルダー用全幅"
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Blank"
+msgstr "ページビルダー用空白"
+
+#: inc/template-tags.php:822
+msgid "This sidebar is active but empty. In order to use this layout, please add widgets in the sidebar"
+msgstr "サイドバーが有効ですが設定されていません。このレイアウトを利用するには、サイドバーにウィジェットを追加してください。"
+
+#: inc/features/feature-general-settings.php:94
+msgid "Blog Sidebar Layout"
+msgstr "ブログサイドバーレイアウト"
+
+#: inc/features/feature-general-settings.php:76
+#: inc/features/feature-general-settings.php:108
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: inc/features/feature-general-settings.php:72
+#: inc/features/feature-general-settings.php:104
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: inc/features/feature-general-settings.php:68
+#: inc/features/feature-general-settings.php:100
+msgid "Full Width"
+msgstr "全幅"
+
+#: inc/features/feature-general-settings.php:62
+msgid "Page Sidebar Layout"
+msgstr "ページサイドバーレイアウト"
+
+#: functions.php:240
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce サイドバー"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth Template"
+msgstr "全幅テンプレート"
+
+#: ti-about-page/class-themeisle-about-page.php:1073
+#: ti-customizer-notify/class-themeisle-customizer-notify.php:170
+msgid "Activating"
+msgstr "有効化しています"
+
+#: template-parts/content-single.php:67
+msgid "Tags: "
+msgstr "タグ: "
+
+#: template-parts/content-single.php:59
+msgid "Categories:"
+msgstr "カテゴリー: "
+
+#: template-parts/content-none.php:34
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: template-parts/content-none.php:31
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "指定の検索条件に一致する項目がありません。他のキーワードで再検索してください。"
+
+#. translators: %1$s is Link to new post, %2$s is Get started here
+#: template-parts/content-none.php:25
+msgid "Get started here"
+msgstr "ここからはじめましょう"
+
+#. translators: %s is Link to new post
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? %s."
+msgstr "最初の投稿の準備ができましたか ? %s "
+
+#. translators: %1$s is Time since post, %2$s is author Close tag
+#: template-parts/content-alternative.php:56 template-parts/content.php:68
+msgid "%1$s ago %2$s"
+msgstr "%1$s前 %2$s"
+
+#. translators: %1$s is Author name wrapped, %2$s is Time
+#: template-parts/content-alternative.php:47 template-parts/content.php:59
+msgid "By %1$s, %2$s"
+msgstr "投稿者:%1$s 投稿日時:%2$s"
+
+#. translators: %s is Search query
+#: search.php:40
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#. translators: %d is number of items
+#: inc/woocommerce/functions.php:68
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d件"
+
+#: inc/woocommerce/functions.php:63 inc/woocommerce/functions.php:112
+msgid "View your shopping cart"
+msgstr "ショッピングカートを表示"
+
+#: inc/template-tags.php:568
+msgid "Share on Google+"
+msgstr "Google+ でシェア"
+
+#: inc/template-tags.php:563
+msgid "Share on Twitter"
+msgstr "Twitter でシェア"
+
+#: inc/template-tags.php:558
+msgid "Share on Facebook"
+msgstr "Facebook でシェア"
+
+#: inc/template-tags.php:510
+msgid "Related Posts"
+msgstr "関連記事"
+
+#: inc/template-tags.php:443
+msgid "What's on your mind?"
+msgstr "ご意見、ご感想をお願いします。"
+
+#: inc/template-tags.php:440
+msgid "Website"
+msgstr "Web サイト"
+
+#: inc/template-tags.php:439
+msgid "Email"
+msgstr "メールアドレス"
+
+#: inc/template-tags.php:438
+msgid "Name"
+msgstr "お名前"
+
+#. translators: %s is Link to login
+#: inc/template-tags.php:429
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "コメントするには<a href=\"%s\">ログイン</a>してください。"
+
+#: inc/template-tags.php:393
+msgid "Reply"
+msgstr "返信"
+
+#: inc/template-tags.php:382
+msgid "(Edit)"
+msgstr "(編集)"
+
+#. translators: %1$s is Date, %2$s is Time
+#: inc/template-tags.php:378
+msgid "&#183; %1$s at %2$s"
+msgstr "&#183; %1$s %2$s"
+
+#: inc/template-tags.php:275
+msgid "Previous page"
+msgstr "前のページ"
+
+#: inc/template-tags.php:274
+msgid "Next page"
+msgstr "次のページ"
+
+#. translators: %s is Category name
+#: inc/template-tags.php:183
+msgid "View all posts in %s"
+msgstr "%s のすべての投稿を表示"
+
+#: inc/sections/hestia-slider-section.php:113
+#: inc/sections/hestia-slider-section.php:121
+#: inc/sections/hestia-slider-section.php:129
+msgid "Button"
+msgstr "ボタン"
+
+#: inc/sections/hestia-slider-section.php:112
+#: inc/sections/hestia-slider-section.php:120
+#: inc/sections/hestia-slider-section.php:128
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr "あのイーハトーヴォのすきとおった風、夏でも底に冷たさをもつ青いそら、うつくしい森で飾られたモリーオ市、郊外のぎらぎらひかる草の波。"
+
+#: inc/sections/hestia-slider-section.php:111
+#: inc/sections/hestia-slider-section.php:119
+#: inc/sections/hestia-slider-section.php:127
+msgid "Lorem Ipsum"
+msgstr "ダミー文字列"
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/sections/hestia-big-title-section.php:26
+#: inc/sections/hestia-blog-section.php:24
+#: inc/sections/hestia-contact-section.php:23
+#: inc/sections/hestia-shop-section.php:25
+#: inc/sections/hestia-subscribe-section.php:23
+msgid "Change this subtitle in %s."
+msgstr "%sでサブタイトルを変更してください。"
+
+#: inc/sections/hestia-blog-section.php:24
+#: inc/sections/hestia-contact-section.php:23
+#: inc/sections/hestia-shop-section.php:25
+#: inc/sections/hestia-subscribe-section.php:23
+msgid "customizer"
+msgstr "カスタマイザー"
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/sections/hestia-big-title-section.php:24
+msgid "Change in %s"
+msgstr "%sで変更してください"
+
+#: inc/features/feature-theme-info-section.php:32
+msgid "View PRO Features"
+msgstr "PRO バージョンの機能"
+
+#: inc/features/feature-subscribe-section.php:69
+#: inc/sections/hestia-subscribe-section.php:28
+msgid "Subscribe to our Newsletter"
+msgstr "ニュースレターを購読する"
+
+#: inc/features/feature-subscribe-section.php:27
+msgid "Subscribe"
+msgstr "購読セクション"
+
+#: inc/features/feature-shop-section.php:47
+#: inc/sections/hestia-shop-section.php:29
+msgid "Products"
+msgstr "商品"
+
+#: inc/features/feature-shop-section.php:19
+msgid "Shop"
+msgstr "ショップセクション"
+
+#: inc/features/feature-general-settings.php:43
+msgid "If enabled, the theme will use a boxed layout."
+msgstr "有効化すると、テーマはボックスレイアウトを利用します。"
+
+#: inc/features/feature-general-settings.php:42
+msgid "Boxed Layout"
+msgstr "ボックスレイアウト"
+
+#: inc/features/feature-general-settings.php:25
+msgid "General Settings"
+msgstr "一般設定"
+
+#: inc/features/feature-contact-section.php:155
+msgid "Contact Content"
+msgstr "連絡先の本文"
+
+#: inc/features/feature-contact-section.php:129
+#: inc/features/feature-subscribe-section.php:108
+msgid "Instructions"
+msgstr "説明"
+
+#: inc/features/feature-contact-section.php:114
+msgid "Form Title"
+msgstr "フォームのタイトル"
+
+#: inc/features/feature-contact-section.php:106
+#: inc/sections/hestia-contact-section.php:28
+msgid "Contact Us"
+msgstr "お問い合わせ"
+
+#: inc/features/feature-contact-section.php:74
+#: inc/sections/hestia-contact-section.php:27
+msgid "Get in Touch"
+msgstr "ご連絡ください"
+
+#: inc/features/feature-contact-section.php:65
+#: inc/features/feature-subscribe-section.php:60
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/features/feature-contact-section.php:32
+#: inc/features/feature-contact-section.php:297
+msgid "Contact"
+msgstr "連絡先セクション"
+
+#: inc/features/feature-color-settings.php:39
+msgid "Accent Color"
+msgstr "アクセント色"
+
+#: inc/features/feature-blog-section.php:84
+#: inc/features/feature-shop-section.php:87
+msgid "Number of Items"
+msgstr "項目数"
+
+#: inc/features/feature-blog-section.php:68
+#: inc/features/feature-contact-section.php:98
+#: inc/features/feature-shop-section.php:71
+#: inc/features/feature-subscribe-section.php:93
+msgid "Section Subtitle"
+msgstr "セクションサブタイトル"
+
+#: inc/features/feature-blog-section.php:52
+#: inc/features/feature-contact-section.php:82
+#: inc/features/feature-shop-section.php:55
+#: inc/features/feature-subscribe-section.php:77
+msgid "Section Title"
+msgstr "セクションタイトル"
+
+#: inc/features/feature-blog-section.php:20
+#: inc/features/feature-blog-section.php:44
+#: inc/sections/hestia-blog-section.php:28
+msgid "Blog"
+msgstr "ブログ"
+
+#: inc/features/feature-blog-section.php:60
+#: inc/features/feature-contact-section.php:90
+#: inc/features/feature-shop-section.php:63
+#: inc/features/feature-subscribe-section.php:85
+msgid "Change this subtitle in the Customizer"
+msgstr "カスタマイザーでサブタイトルを変更"
+
+#: inc/features/feature-big-title-section.php:112
+msgid "Button URL"
+msgstr "ボタンのリンク"
+
+#: inc/features/feature-big-title-section.php:95
+msgid "Button text"
+msgstr "ボタンの文字列"
+
+#: inc/features/feature-big-title-section.php:41
+msgid "Big Title Background"
+msgstr "大見出しの背景"
+
+#: inc/features/feature-big-title-section.php:21
+msgid "Big Title Section"
+msgstr "大見出しセクション"
+
+#: inc/features/feature-about-section.php:64
+msgid "About Content"
+msgstr "「私たちについて」の内容"
+
+#: inc/features/feature-about-section.php:42
+#: inc/features/feature-blog-section.php:36
+#: inc/features/feature-contact-section.php:48
+#: inc/features/feature-pagebuilder-frontpage.php:40
+#: inc/features/feature-shop-section.php:39
+#: inc/features/feature-subscribe-section.php:43
+msgid "Disable section"
+msgstr "セクションを無効にする"
+
+#: inc/features/feature-about-section.php:26
+msgid "About"
+msgstr "「私たちについて」セクション"
+
+#: inc/features/feature-about-page.php:274
+msgid "Recommended Plugins"
+msgstr "おすすめプラグイン"
+
+#. translators: s - ThemeIsle Companion
+#: inc/features/feature-about-page.php:269
+msgid "If you want to take full advantage of the options this theme has to offer, please install and activate %s."
+msgstr "このテーマでサポートされるすべてのオプションを活用するには、%s をインストールし、有効化してください。"
+
+#: inc/features/feature-about-page.php:248
+msgid "Makes your Contact section more engaging by creating a good-looking contact form. Interaction with your visitors has never been easier."
+msgstr "優れたデザインの問い合わせフォームにより「連絡先」セクションのエンゲージメントを高めます。訪問者とのコミュニケーションはかつてないほど簡単になりました。"
+
+#: inc/features/feature-about-page.php:241
+msgid "It is highly recommended that you install the companion plugin to have access to the Frontpage features, Team and Testimonials sections."
+msgstr "フロントページで「特徴」「チーム」「お客様の声」セクションを利用するには付属のプラグインをインストールしてください。"
+
+#: inc/features/feature-about-page.php:211
+#: inc/features/feature-about-page.php:237
+#: inc/features/feature-about-page.php:277
+msgid "Deactivate"
+msgstr "無効化"
+
+#: inc/features/feature-about-page.php:210
+#: inc/features/feature-about-page.php:236
+#: inc/features/feature-about-page.php:276
+#: inc/plugin-install/class-hestia-plugin-install-helper.php:80
+msgid "Activate"
+msgstr "有効化"
+
+#: inc/features/feature-about-page.php:209
+#: inc/features/feature-about-page.php:235
+#: inc/features/feature-about-page.php:275
+msgid "Install and Activate"
+msgstr "インストールと有効化"
+
+#: inc/features/feature-about-page.php:208
+msgid "Version: "
+msgstr "バージョン: "
+
+#: inc/features/feature-about-page.php:207
+msgid "Already activated"
+msgstr "有効化済み"
+
+#: inc/features/feature-about-page.php:199
+#: inc/features/feature-theme-info-section.php:62
+msgid "24/7 HelpDesk Professional Support"
+msgstr "24時間年中無休のプロフェッショナルサポート"
+
+#: inc/features/feature-about-page.php:198
+#: inc/features/feature-theme-info-section.php:54
+msgid "Quality Support"
+msgstr "高品質なサポート"
+
+#: inc/features/feature-about-page.php:181
+#: inc/features/feature-theme-info-section.php:58
+msgid "Change colors for the header overlay, header text and navbar."
+msgstr "ヘッダーオーバーレイ、ヘッダー文字列、ナビゲーションバーの色を変更できます。"
+
+#: inc/features/feature-about-page.php:180
+#: inc/features/feature-theme-info-section.php:50
+msgid "Fully Customizable Colors"
+msgstr "自由にカスタマイズ可能な配色"
+
+#: inc/features/feature-about-page.php:175
+#: inc/features/feature-theme-info-section.php:57
+msgid "You will be able to add more content to your site header with an awesome slider."
+msgstr "サイトヘッダーにスライドする複数のコンテンツを追加できます。"
+
+#: inc/features/feature-about-page.php:174
+#: inc/features/feature-theme-info-section.php:49
+msgid "Header Slider"
+msgstr "ヘッダースライダー"
+
+#: inc/features/feature-about-page.php:157
+msgid "You can use any background image you want."
+msgstr "自由に背景画像を設定できます。"
+
+#: inc/features/feature-about-page.php:156
+msgid "Background image"
+msgstr "背景画像"
+
+#: inc/features/feature-about-page.php:151
+msgid "Big title, Features, About, Team, Testimonials, Subscribe, Blog, Contact"
+msgstr "「大見出し」「特徴」「私たちについて」「チーム」「お客様の声」「購読」「ブログ」「お問い合わせ」"
+
+#: inc/features/feature-about-page.php:145
+msgid "Ready for e-commerce. You can build an online store here."
+msgstr "E コマースに対応し、ここからオンラインストアを作成できます。"
+
+#: inc/features/feature-about-page.php:144
+msgid "WooCommerce Compatible"
+msgstr "WooCommerce 互換"
+
+#: inc/features/feature-about-page.php:139
+msgid "Responsive layout. Works on every device."
+msgstr "レスポンシブレイアウト。どの端末にも対応します。"
+
+#: inc/features/feature-about-page.php:138
+msgid "Mobile friendly"
+msgstr "モバイル対応"
+
+#. translators: s - theme name
+#: inc/features/feature-about-page.php:135
+msgid "Get %s now!"
+msgstr "%s を今すぐ入手"
+
+#: inc/features/feature-about-page.php:121
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "WordPress カスタマイザーを利用して、テーマのすべての機能を簡単にカスタマイズできます。"
+
+#: inc/features/feature-about-page.php:103
+msgid "We have compiled a list of steps for you to take so we can ensure that the experience you have using one of our products is very easy to follow."
+msgstr "最大限有効に製品を使っていただけるよう、簡単に実行できる設定手順をまとめました。"
+
+#: inc/features/feature-about-page.php:102
+#: inc/features/feature-about-page.php:104
+msgid "Recommended actions"
+msgstr "おすすめ設定"
+
+#: inc/features/feature-about-page.php:92
+msgid "In the documentation below you will find an easy way to build a great looking landing page using a drag-and-drop content builder plugin."
+msgstr "ドラッグ & ドロップコンテンツビルダープラグインを使用して簡単に見栄えの良いランディングページを作成する方法については次のドキュメントを参照してください。"
+
+#: inc/features/feature-about-page.php:90
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr "ドラッグ & ドロップのコンテンツビルダーを利用してランディングページを作成"
+
+#: inc/features/feature-about-page.php:83
+msgid "If you find yourself in a situation where everything on your site is running very slowly, you might consider having a look at the documentation below where you will find the most common issues causing this and possible solutions for each of the issues."
+msgstr "サイトの動作を重く感じる場合は、次のドキュメントを参照してください。考えられる一般的な原因と対応する解決方法が記述されています。"
+
+#: inc/features/feature-about-page.php:81
+msgid "Speed up your site"
+msgstr "サイトをスピードアップ"
+
+#: inc/features/feature-about-page.php:75
+#: inc/features/feature-about-page.php:84
+#: inc/features/feature-about-page.php:93
+msgid "View how to do this"
+msgstr "方法を見る"
+
+#: inc/features/feature-about-page.php:74
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "テーマのファイルを直接変更した場合、今後のテーマの更新で上書きされる可能性があります。変更の上書きを防ぐには子テーマを作成します。詳細な手順については次のドキュメントを参照してください。"
+
+#: inc/features/feature-about-page.php:72
+msgid "Create a child theme"
+msgstr "子テーマを作成"
+
+#: inc/features/feature-about-page.php:65
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "テーマの最新の変更点を調べるには、以下の更新履歴を参照して、修正点と新しく実装された機能を確認してください。"
+
+#: inc/features/feature-about-page.php:57
+#: inc/features/feature-about-page.php:111
+msgid "Read full documentation"
+msgstr "ドキュメントの参照"
+
+#: functions.php:627 inc/features/feature-about-page.php:56
+#: inc/features/feature-about-page.php:112
+msgid "Need more details? Please check our full documentation for detailed information on how to use Hestia."
+msgstr "さらに詳しい Hestia の使い方については次のドキュメントを参照してください。"
+
+#: inc/features/feature-about-page.php:47
+msgid "We want to make sure you have the best experience using Hestia, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using Hestia as much as we enjoy creating great products."
+msgstr "Hestia を最大限活用いただけるよう必要な情報をここにまとめました。私たちがを素晴らしい製品の開発を楽しんだように、みなさんも Hestia の利用を楽しんでいただけると幸いです。"
+
+#: inc/features/feature-about-page.php:45
+#: inc/features/feature-about-page.php:48
+msgid "Contact Support"
+msgstr "お問い合わせサポート"
+
+#: inc/features/feature-about-page.php:40
+msgid "Free vs PRO"
+msgstr "PRO バージョンとの比較"
+
+#: inc/features/feature-about-page.php:39
+#: inc/features/feature-about-page.php:63
+#: inc/features/feature-about-page.php:66
+msgid "Changelog"
+msgstr "変更履歴"
+
+#: inc/features/feature-about-page.php:38
+msgid "Support"
+msgstr "サポート"
+
+#: inc/features/feature-about-page.php:37
+msgid "Useful Plugins"
+msgstr "便利なプラグイン"
+
+#: inc/features/feature-about-page.php:36
+#: inc/features/feature-about-page.php:273
+msgid "Recommended Actions"
+msgstr "おすすめ設定"
+
+#: inc/features/feature-about-page.php:35
+msgid "Getting Started"
+msgstr "はじめに"
+
+#. translators: s - theme name
+#: inc/features/feature-about-page.php:25
+msgid "Welcome to %s! - Version "
+msgstr "ようこそ %s へ - バージョン "
+
+#: functions.php:627 inc/features/feature-about-page.php:20
+#: inc/features/feature-about-page.php:22
+msgid "About Hestia"
+msgstr "Hestia について"
+
+#: inc/customizer.php:128
+msgid "Blog Settings"
+msgstr "ブログ設定"
+
+#: inc/customizer.php:120 inc/features/feature-about-page.php:150
+msgid "Frontpage Sections"
+msgstr "フロントページセクション"
+
+#: inc/customizer.php:113
+msgid "Appearance Settings"
+msgstr "外観設定"
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:119
+#: inc/features/feature-about-page.php:193
+#: inc/features/feature-theme-info-section.php:60
+msgid "A fully customizable pricing plans section."
+msgstr "自由にカスタマイズ可能な料金テーブルセクション"
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:118
+#: inc/features/feature-about-page.php:187
+#: inc/features/feature-theme-info-section.php:59
+msgid "Portfolio section with two possible layouts."
+msgstr "2種類のレイアウトが可能なポートフォリオセクション"
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:116
+#: inc/features/feature-theme-info-section.php:65
+msgid "Get the PRO version!"
+msgstr "PRO バージョンを入手 !"
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:112
+#: inc/features/feature-about-page.php:162
+#: inc/features/feature-theme-info-section.php:53
+msgid "Section Reordering"
+msgstr "セクションの並べ替え"
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:111
+#: inc/features/feature-about-page.php:192
+#: inc/features/feature-theme-info-section.php:52
+msgid "Pricing Plans Section"
+msgstr "料金プランセクション"
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:110
+#: inc/features/feature-about-page.php:186
+#: inc/features/feature-theme-info-section.php:51
+msgid "Jetpack Portfolio"
+msgstr "Jetpack ポートフォリオ"
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:93
+#: inc/features/feature-about-page.php:54
+#: inc/features/feature-about-page.php:113
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#. translators: %s Path in plugin
+#: inc/customizer-subscribe-info/class-hestia-subscribe-info.php:93
+msgid "And then you need to navigate to its Settings, and use the following in the Subscription form:"
+msgstr "次に「設定」に移動し、購読フォームで以下を使用してください。"
+
+#. translators: %s Path in plugin wrapped
+#: inc/customizer-subscribe-info/class-hestia-subscribe-info.php:85
+msgid "After installing the plugin, you need to navigate to %s and configure the plugin."
+msgstr "プラグインのインストール後、%s に移動してプラグインの設定を行います。"
+
+#: inc/customizer-subscribe-info/class-hestia-subscribe-info.php:77
+msgid "SendinBlue plugin"
+msgstr "SendinBlue プラグイン"
+
+#. translators: %1$s is Path wrapped in <b>, %2$s is Plugin link
+#: inc/customizer-subscribe-info/class-hestia-subscribe-info.php:75
+msgid "The main content of this section is customizable in: %1$s. There you must add the \"SendinBlue Newsletter\" widget. But first you will need to install %2$s."
+msgstr "このセクションの内容は %1$s でカスタマイズできます。「SendinBlue Newsletter」ウィジェットを追加する必要がありますが、まず %2$sをインストールしてください。"
+
+#. translators: %s is Path
+#: inc/customizer-subscribe-info/class-hestia-subscribe-info.php:68
+msgid "Customize > Widgets > Blog Subscribe Section"
+msgstr "カスタマイズ > ウィジェット > ブログ購読セクション"
+
+#. translators: %s is Path
+#: inc/customizer-subscribe-info/class-hestia-subscribe-info.php:59
+msgid "Customize > Widgets > Subscribe Section"
+msgstr "カスタマイズ > ウィジェット > 購読セクション"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:439
+#: inc/customizer-repeater/class/customizer-repeater-control.php:472
+msgid "Add Icon"
+msgstr "アイコンを追加"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:434
+#: inc/customizer-repeater/class/customizer-repeater-control.php:464
+msgid "Remove Icon"
+msgstr "アイコンを削除"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:417
+msgid "Social icons"
+msgstr "ソーシャルアイコン"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:409
+msgid "None"
+msgstr "なし"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:404
+msgid "Image type"
+msgstr "画像の形式"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:397
+msgid "Upload Image"
+msgstr "画像をアップロード"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:394
+#: inc/customizer-repeater/class/customizer-repeater-control.php:408
+msgid "Image"
+msgstr "画像"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:377
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:376
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "注意: 表示されていないアイコンがあります。すべてのアイコンのリストは %1$s で確認してください。"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:371
+#: inc/customizer-repeater/class/customizer-repeater-control.php:407
+msgid "Icon"
+msgstr "アイコン"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:267
+#: inc/customizer-repeater/class/customizer-repeater-control.php:340
+msgid "Delete field"
+msgstr "フィールドを削除"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:252
+#: inc/customizer-repeater/class/customizer-repeater-control.php:330
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:244
+#: inc/customizer-repeater/class/customizer-repeater-control.php:323
+#: inc/customizer-repeater/class/customizer-repeater-control.php:431
+#: inc/customizer-repeater/class/customizer-repeater-control.php:453
+msgid "Link"
+msgstr "リンク"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:237
+#: inc/customizer-repeater/class/customizer-repeater-control.php:316
+#: inc/features/feature-big-title-section.php:78
+msgid "Text"
+msgstr "テキスト"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:230
+#: inc/customizer-repeater/class/customizer-repeater-control.php:309
+msgid "Subtitle"
+msgstr "サブタイトル"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:223
+#: inc/customizer-repeater/class/customizer-repeater-control.php:302
+#: inc/features/feature-big-title-section.php:60
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:215
+#: inc/customizer-repeater/class/customizer-repeater-control.php:294
+msgid "Color"
+msgstr "色"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Customizer Repeater"
+msgstr "Customizer Repeater"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:28
+msgid "Add new field"
+msgstr "新規フィールドを追加"
+
+#: inc/customizer-page-editor/class/class-hestia-page-editor.php:84
+#: inc/features/feature-about-section.php:92
+msgid "About background"
+msgstr "「私たちについて」セクションの背景"
+
+#: inc/customizer-info/class/class-hestia-customizer-info-singleton.php:92
+msgid "WooCommerce plugin"
+msgstr "WooCommerce プラグイン"
+
+#. translators: %1$s is Plugin Name
+#: inc/customizer-info/class/class-hestia-customizer-info-singleton.php:91
+msgid "To have access to a shop section please install and configure %1$s."
+msgstr "ショップセクションを利用するには %1$sをインストールし、設定してください。"
+
+#. translators: %1$s is Plugin name
+#: inc/customizer-contact-info/class-hestia-contact-info.php:43
+msgid "In order to add a contact form to this section, you need to install the %s plugin."
+msgstr "このセクションへお問い合わせフォームを追加するには、%s プラグインをインストールしてください。"
+
+#. translators: %s is Path in plugin
+#: inc/customizer-contact-info/class-hestia-contact-info.php:38
+msgid "Settings > Pirate Forms"
+msgstr "設定 > Pirate Forms"
+
+#. translators: %s is Path in plugin wrapped
+#: inc/customizer-contact-info/class-hestia-contact-info.php:36
+msgid "You should be able to see the form on your front-page. You can configure settings from %s, in your WordPress dashboard."
+msgstr "フロントページでフォームを表示することができます。WordPress ダッシュボードの %s から設定してください。"
+
+#: inc/template-tags.php:782
+msgid "Toggle Navigation"
+msgstr "ナビゲーションを切り替え"
+
+#: functions.php:573
+msgid "Button Text"
+msgstr "ボタンの文字列"
+
+#: functions.php:378
+msgid "Read more&hellip;"
+msgstr "続きを読む &hellip;"
+
+#: functions.php:325
+msgid "View cart"
+msgstr "カートを表示"
+
+#: functions.php:266
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Roboto or Roboto Slab, translate this to 'off'. Do not translate into
+#. your own language.
+#: functions.php:265
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:229
+msgid "Footer Three"
+msgstr "フッター3"
+
+#: functions.php:218
+msgid "Footer Two"
+msgstr "フッター2"
+
+#: functions.php:207
+msgid "Footer One"
+msgstr "フッター1"
+
+#: functions.php:196
+msgid "Blog Subscribe Section"
+msgstr "ブログ購読セクション"
+
+#: functions.php:185
+msgid "Subscribe Section"
+msgstr "購読セクション"
+
+#: functions.php:174
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:117
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: functions.php:116 functions.php:652
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: inc/template-tags.php:726
+msgid "WordPress"
+msgstr "WordPress"
+
+#. translators: %s is WordPress
+#: inc/template-tags.php:725
+msgid "http://wordpress.org"
+msgstr "https://ja.wordpress.org"
+
+#. #-#-#-#-#  hestia.pot (Hestia 1.1.39)  #-#-#-#-#
+#. translators: %s is Theme name
+#. #-#-#-#-#  hestia.pot (Hestia 1.1.39)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:91
+#: inc/template-tags.php:720
+msgid "Hestia"
+msgstr "Hestia"
+
+#. translators: %1$s is Theme Name, %2$s is WordPress
+#: inc/template-tags.php:716
+msgid "%1$s | Powered by %2$s"
+msgstr "%1$s | Powered by %2$s"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#. translators: %s is Image sizes for attachment single page.
+#: attachment.php:77
+msgid "Size: %s"
+msgstr "サイズ: %s"
+
+#. translators: %1$s is Author name, %2$s is Date
+#. translators: %1$s is Author name wrapped, %2$s is Date
+#: attachment.php:19 single.php:19
+msgid "Published by %1$s on %2$s"
+msgstr "投稿者: %1$s 投稿日: %2$s"
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "Themeisle"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/hestia/"
+msgstr "https://themeisle.com/themes/hestia/"
